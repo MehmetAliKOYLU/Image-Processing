@@ -1,0 +1,22 @@
+1) Görüntünüzü RGB ve BGR formatlarında
+renkli olarak okuyunuz.
+
+2) Görüntünüzü gri seviyede tek kanallı olarak
+okuyunuz ve bunları bir değişkende saklayınız
+
+3) Bu 3 görüntüyü tek bir plot içerisinde yan yana
+gösteriniz. Başlık bilgilerinde renk formatlarını
+yazınız.
+
+4) Görüntünün yükseklik ve genişlik bilgisini
+okuyup ekrana yazdırın (f"" string ile)
+
+5) Görüntünün yükseklik ve genişliği 600'den büyük
+ise görüntünün yükseklik ve genişliğinin yarısına
+resize ediniz.
+İkisi de 600'den küçükse hem yarısına küçülterek
+hem de iki katına büyüterek 2 adet resize görüntüyü
+elde eden kodu yazınız.
+Orijinal ve resize edilen görüntüleri aynı
+plot içerisinde başlık bilgisi ile gösteriniz
+
